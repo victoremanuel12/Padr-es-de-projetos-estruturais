@@ -26,3 +26,4 @@ C:\Users\Victor Emanuel\Documents\Estudos\C#\Parões_Projeto_estruturais\Adapter
 C:\Users\Victor Emanuel\Documents\Estudos\C#\Parões_Projeto_estruturais\Adapter\Adapter\bin\Debug\net8.0\Adapter.pdb
 C:\Users\Victor Emanuel\Documents\Estudos\C#\Parões_Projeto_estruturais\Adapter\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
 C:\Users\Victor Emanuel\Documents\Estudos\C#\Parões_Projeto_estruturais\Adapter\Adapter\obj\Debug\net8.0\ref\Adapter.dll
+C:\Users\Victor Emanuel\Documents\Estudos\C#\Parões_Projeto_estruturais\Adapter\Adapter\obj\Debug\net8.0\Adapter.sourcelink.json
